@@ -1,3 +1,5 @@
+原作者已删库，本人重新编辑发布
+
 # v2ray-agent
 
 > [感谢 JetBrains 提供的非商业开源软件开发授权](https://www.jetbrains.com/?from=v2ray-agent)
