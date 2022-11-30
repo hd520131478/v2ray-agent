@@ -131,4 +131,4 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/panhu
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/panhuanghe/v2ray-agent.svg)](https://starchart.cc/panhuanghe/v2ray-agent)
+
